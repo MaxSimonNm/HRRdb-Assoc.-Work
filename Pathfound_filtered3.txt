@@ -1,0 +1,914 @@
+For Line UGLC
+For Line UGZB
+./April_2022/4th_April_Batch/4th_April_Batch/Reads/Annotation_Germline/Annotation_Output/UGZB-B-ce-RSQ-S36
+For Line VA1F
+./February_2022/19_February_Batch/Annotation_Germline/Annotation_Output/VA1F-B-SE8-S16
+For Line VA2F
+./February_2022/14_February_Batch/Annotation_Germline/Annotation_Output/VA2F-B-SE8
+For Line VA2G
+./February_2022/14_February_Batch/Annotation_Germline/Annotation_Output/VA2G-B-SE8
+For Line VA5F
+./February_2022/14_February_Batch/Annotation_Germline/Annotation_Output/VA5F-B-SE8
+For Line VA5H
+./February_2022/19_February_Batch/Annotation_Germline/Annotation_Output/VA5H-B-SE8-S17
+For Line VACB
+For Line VACC
+For Line VACD
+For Line VACF
+For Line VADA
+For Line VAFB
+For Line VAFE
+For Line VAGA
+For Line VAGB
+For Line VAJD
+./January_2022/27th_January_Batch/Annotation_Germline/annotation_output/VAJD-B-SE8-S13
+For Line VAKA
+./January_2022/27th_January_Batch/Annotation_Germline/annotation_output/VAKA-B-SE8-S14
+For Line VAKB
+./January_2022/27th_January_Batch/Annotation_Germline/annotation_output/VAKB-B-SE8-S15
+For Line VAKC
+./January_2022/27th_January_Batch/Annotation_Germline/annotation_output/VAKC-B-SE8-S16
+For Line VAKE
+./January_2022/27th_January_Batch/Annotation_Germline/annotation_output/VAKE-B-SE8-S19
+./February_2022/6th_February_Batch/Annotation_Germline/Annotation_output/VAKE-B-SE8-RSQ
+For Line VAKJ
+./January_2022/27th_January_Batch/Annotation_Germline/annotation_output/VAKJ-B-SE8-S18
+For Line VALB
+./January_2022/27th_January_Batch/Annotation_Germline/annotation_output/VALB-B-SE8-S17
+For Line VAMA
+./January_2022/27th_January_Batch/Annotation_Germline/annotation_output/VAMA-B-SE8-S20
+For Line VAMD
+./January_2022/27th_January_Batch/Annotation_Germline/annotation_output/VAMD-B-SE8-S21
+For Line VAQA
+./January_2022/27th_January_Batch/Annotation_Germline/annotation_output/VAQA-B-SE8-S22
+./February_2022/6th_February_Batch/Annotation_Germline/Annotation_output/VAQA-B-SE8-RSQ
+For Line VAQB
+./January_2022/27th_January_Batch/Annotation_Germline/annotation_output/VAQB-B-SE8-S23
+For Line VAQD
+./January_2022/27th_January_Batch/Annotation_Germline/annotation_output/VAQD-B-SE8-S24
+For Line VAQE
+./January_2022/27th_January_Batch/Annotation_Germline/annotation_output/VAQE-B-SE8-S25
+For Line VARB
+./February_2022/6th_February_Batch/Annotation_Germline/Annotation_output/VARB-B-SE8
+For Line VATB
+./February_2022/6th_February_Batch/Annotation_Germline/Annotation_output/VATB-B-SE8
+For Line VATC
+./February_2022/6th_February_Batch/Annotation_Germline/Annotation_output/VATC-B-SE8
+For Line VATD
+./February_2022/6th_February_Batch/Annotation_Germline/Annotation_output/VATD-B-SE8
+For Line VAUA
+./February_2022/14_February_Batch/Annotation_Germline/Annotation_Output/VAUA-B-SE8
+For Line VAUC
+./February_2022/14_February_Batch/Annotation_Germline/Annotation_Output/VAUC-B-SE8
+For Line VAXA
+./February_2022/14_February_Batch/Annotation_Germline/Annotation_Output/VAXA-B-SE8
+For Line VAXE
+./February_2022/14_February_Batch/Annotation_Germline/Annotation_Output/VAXE-B-SE8
+For Line VAYC
+./February_2022/19_February_Batch/Annotation_Germline/Annotation_Output/VAYC-B-SE8-S13
+For Line VAYD
+./February_2022/19_February_Batch/Annotation_Germline/Annotation_Output/VAYD-B-SE8-S14
+./February_2022/26th_February_Batch/Annotation_Germline/Annotation_Output_cf/VAYD-B-SL-CE-Std
+For Line VAYE
+./February_2022/19_February_Batch/Annotation_Germline/Annotation_Output/VAYE-B-SE8-S15
+For Line VB2A
+For Line VBAE
+./February_2022/19_February_Batch/Annotation_Germline/Annotation_Output/VBAE-B-SE8-S18
+For Line VBBA
+./February_2022/19_February_Batch/Annotation_Germline/Annotation_Output/VBBA-B-SE8-S19
+For Line VBCA
+./February_2022/19_February_Batch/Annotation_Germline/Annotation_Output/VBCA-B-SE8-S20
+For Line VBCB
+./February_2022/19_February_Batch/Annotation_Germline/Annotation_Output/VBCB-B-SE8-S21
+For Line VBCC
+./February_2022/19_February_Batch/Annotation_Germline/Annotation_Output/VBCC-B-SE8-S22
+For Line VBCF
+./February_2022/19_February_Batch/Annotation_Germline/Annotation_Output/VBCF-B-SE8-S23
+For Line VBCG
+./February_2022/19_February_Batch/Annotation_Germline/Annotation_Output/VBCG-B-SE8-S24
+For Line VBDA
+./February_2022/26th_February_Batch/Annotation_Germline/Annotation_output/VBDA-B-SE8
+For Line VBGD
+./June_2022/15th_June_22_Batch_50/LCA-RTR1-BN-198/Annotation_Germline/Annotatin_Output/VBGD-B-CE-S134-L004
+For Line VBGE
+./February_2022/26th_February_Batch/Annotation_Germline/Annotation_output/VBGE-B-SE8
+For Line VBHC
+./February_2022/26th_February_Batch/Annotation_Germline/Annotation_output/VBHC-B-SE8
+For Line VBHE
+./February_2022/26th_February_Batch/Annotation_Germline/Annotation_output/VBHE-B-SE8
+For Line VBIA
+./February_2022/26th_February_Batch/Annotation_Germline/Annotation_output/VBIA-B-SE8
+For Line VBJE
+./February_2022/26th_February_Batch/Annotation_Germline/Annotation_output/VBJE-B-SE8
+For Line VBKC
+./February_2022/26th_February_Batch/Annotation_Germline/Annotation_output/VBKC-B-SE8
+For Line VBNA
+For Line VBNB
+./May_2022/2nd_May_Batch/Annotation_Germline/Annotation_Output/VBNB-B-CE-S26
+./May_2022/2nd_May_Batch/02_May_22_Batch/Annotation_Germline/Annotation_Output/VBNB-B-CE-S26
+For Line VBNF
+For Line VBPD
+For Line VBQC
+For Line VBRA
+For Line VBUD
+For Line VBUH
+For Line VBUI
+For Line VBUJ
+For Line VBVC
+For Line VBWA
+For Line VBXA
+For Line VBXC
+For Line VBXE
+For Line VBYB
+For Line VC5A
+For Line VC5I
+For Line VD1A
+./May_2022/14_May_22_Batch/Reads/Annotation_Germline/Annotation_output/VD1A-B-CE-S21
+./May_2022/14_May_batch/14_May_22_Batch/Reads/Annotation_Germline/Annotation_output/VD1A-B-CE-S21
+For Line VD1C
+./May_2022/14_May_22_Batch/Reads/Annotation_Germline/Annotation_output/VD1C-B-CE-S22
+./May_2022/14_May_batch/14_May_22_Batch/Reads/Annotation_Germline/Annotation_output/VD1C-B-CE-S22
+For Line VD1H
+./May_2022/14_May_22_Batch/Reads/Annotation_Germline/Annotation_output/VD1H-B-CE-S23
+./May_2022/14_May_batch/14_May_22_Batch/Reads/Annotation_Germline/Annotation_output/VD1H-B-CE-S23
+For Line VD2B
+./May_2022/14_May_22_Batch/Reads/Annotation_Germline/Annotation_output/VD2B-B-CE-S26
+./May_2022/14_May_batch/14_May_22_Batch/Reads/Annotation_Germline/Annotation_output/VD2B-B-CE-S26
+For Line VD2D
+./May_2022/14_May_22_Batch/Reads/Annotation_Germline/Annotation_output/VD2D-B-CE-S25
+./May_2022/14_May_batch/14_May_22_Batch/Reads/Annotation_Germline/Annotation_output/VD2D-B-CE-S25
+For Line VD2G
+./May_2022/14_May_22_Batch/Reads/Annotation_Germline/Annotation_output/VD2G-B-CE-S12
+./May_2022/14_May_batch/14_May_22_Batch/Reads/Annotation_Germline/Annotation_output/VD2G-B-CE-S12
+For Line VD2I
+./May_2022/14_May_22_Batch/Reads/Annotation_Germline/Annotation_output/VD2I-B-CE-S13
+./May_2022/14_May_batch/14_May_22_Batch/Reads/Annotation_Germline/Annotation_output/VD2I-B-CE-S13
+For Line VD2J
+./May_2022/14_May_22_Batch/Reads/Annotation_Germline/Annotation_output/VD2J-B-CE-S14
+./May_2022/14_May_batch/14_May_22_Batch/Reads/Annotation_Germline/Annotation_output/VD2J-B-CE-S14
+For Line VD3B
+./May_2022/14_May_22_Batch/Reads/Annotation_Germline/Annotation_output/VD3B-B-CE-S24
+./May_2022/14_May_batch/14_May_22_Batch/Reads/Annotation_Germline/Annotation_output/VD3B-B-CE-S24
+For Line VDKI
+./May_2022/23_May_22_Batch/Annotation_Germline/Annotation_Output/VDKI-B-CE-S54
+For Line VDNE
+For Line VDSA
+./May_2022/2nd_May_Batch/Annotation_Germline/Annotation_Output/VDSA-B-CE-S38
+./May_2022/2nd_May_Batch/02_May_22_Batch/Annotation_Germline/Annotation_Output/VDSA-B-CE-S38
+For Line VDSE
+./May_2022/2nd_May_Batch/Annotation_Germline/Annotation_Output/VDSE-B-CE-S39
+./May_2022/2nd_May_Batch/02_May_22_Batch/Annotation_Germline/Annotation_Output/VDSE-B-CE-S39
+For Line VDSF
+./May_2022/2nd_May_Batch/Annotation_Germline/Annotation_Output/VDSF-B-CE-S40
+./May_2022/2nd_May_Batch/02_May_22_Batch/Annotation_Germline/Annotation_Output/VDSF-B-CE-S40
+For Line VDTA
+./May_2022/2nd_May_Batch/Annotation_Germline/Annotation_Output/VDTA-B-CE-S41
+./May_2022/2nd_May_Batch/02_May_22_Batch/Annotation_Germline/Annotation_Output/VDTA-B-CE-S41
+For Line VDTC
+./May_2022/2nd_May_Batch/Annotation_Germline/Annotation_Output/VDTC-B-SE8-S16
+./May_2022/2nd_May_Batch/02_May_22_Batch/Annotation_Germline/Annotation_Output/VDTC-B-SE8-S16
+For Line VDUA
+./May_2022/2nd_May_Batch/Annotation_Germline/Annotation_Output/VDUA-B-CE-S42
+./May_2022/2nd_May_Batch/02_May_22_Batch/Annotation_Germline/Annotation_Output/VDUA-B-CE-S42
+For Line VDVA
+./May_2022/2nd_May_Batch/Annotation_Germline/Annotation_Output/VDVA-B-CE-S21
+./May_2022/2nd_May_Batch/02_May_22_Batch/Annotation_Germline/Annotation_Output/VDVA-B-CE-S21
+For Line VDVB
+./May_2022/2nd_May_Batch/Annotation_Germline/Annotation_Output/VDVB-B-CE-S22
+./May_2022/2nd_May_Batch/02_May_22_Batch/Annotation_Germline/Annotation_Output/VDVB-B-CE-S22
+For Line VDVE
+./May_2022/2nd_May_Batch/Annotation_Germline/VDVE_annotation_op
+./May_2022/2nd_May_Batch/Annotation_Germline/VDVE_annotation_op/VDVE-B-CE-S23_original
+./May_2022/2nd_May_Batch/Annotation_Germline/VDVE_annotation_op/VDVE-B-CE-S23
+./May_2022/2nd_May_Batch/Annotation_Germline/Re-run_VCVE/Annotation_output/VDVE-B-CE-S23
+./May_2022/2nd_May_Batch/Annotation_Germline/VDVE-B-CE-S23
+For Line VDVG
+./May_2022/2nd_May_Batch/Annotation_Germline/Annotation_Output/VDVG-B-CE-S24
+./May_2022/2nd_May_Batch/02_May_22_Batch/Annotation_Germline/Annotation_Output/VDVG-B-CE-S24
+For Line VDVH
+./May_2022/2nd_May_Batch/Annotation_Germline/Annotation_Output/VDVH-B-CE-S25
+./May_2022/2nd_May_Batch/02_May_22_Batch/Annotation_Germline/Annotation_Output/VDVH-B-CE-S25
+For Line VDYA
+./May_2022/2nd_May_Batch/Annotation_Germline/Annotation_Output/VDYA-B-CE-S27
+./May_2022/2nd_May_Batch/02_May_22_Batch/Annotation_Germline/Annotation_Output/VDYA-B-CE-S27
+For Line VDYB
+./May_2022/2nd_May_Batch/Annotation_Germline/Annotation_Output/VDYB-B-CE-S29
+./May_2022/2nd_May_Batch/02_May_22_Batch/Annotation_Germline/Annotation_Output/VDYB-B-CE-S29
+For Line VDYC
+./May_2022/2nd_May_Batch/Annotation_Germline/Annotation_Output/VDYC-B-CE-S28
+./May_2022/2nd_May_Batch/02_May_22_Batch/Annotation_Germline/Annotation_Output/VDYC-B-CE-S28
+For Line VDZC
+./May_2022/14_May_22_Batch/Reads/Annotation_Germline/Annotation_output/VDZC-B-CE-S20
+./May_2022/14_May_batch/14_May_22_Batch/Reads/Annotation_Germline/Annotation_output/VDZC-B-CE-S20
+For Line VE1A
+./June_2022/06_June_22_Batch/Reads/Annotation_Germline/Annotation_Output/VE1A-B-CE-S31
+For Line VE1B
+./June_2022/15th_June_22_Batch_50/LCA-RTR1-BN-198/Annotation_Germline/Annotatin_Output/VE1B-B-SE8-S136-L004
+For Line VE1E
+./June_2022/06_June_22_Batch/Reads/Annotation_Germline/Annotation_Output/VE1E-B-CE-S32
+For Line VE1F
+./June_2022/06_June_22_Batch/Reads/Annotation_Germline/Annotation_Output/VE1F-B-CE-S33
+For Line VE4C
+./June_2022/16_June_22_Batch_49/LCA-RTR1-BN-190/Annotation_Germline/Annotation_Output/VE4C-B-CE-S41-L003
+For Line VE4D
+./June_2022/06_June_22_Batch/Reads/Annotation_Germline/Annotation_Output/VE4D-B-CE-S34
+For Line VE4E
+./June_2022/16_June_22_Batch_49/LCA-RTR1-BN-190/Annotation_Germline/Annotation_Output/VE4E-B-CE-S42-L003
+For Line VE4G
+./June_2022/15th_June_22_Batch_50/LCA-RTR1-BN-198/Annotation_Germline/Annotatin_Output/VE4G-B-CE-S139-L004
+For Line VE4H
+./June_2022/15th_June_22_Batch_50/LCA-RTR1-BN-198/Annotation_Germline/Annotatin_Output/VE4H-B-CE-S141-L004
+For Line VE4K
+./June_2022/15th_June_22_Batch_50/LCA-RTR1-BN-198/Annotation_Germline/Annotatin_Output/VE4K-B-CE-S143-L004
+For Line VE5C
+./June_2022/15th_June_22_Batch_50/LCA-RTR1-BN-198/Annotation_Germline/Annotatin_Output/VE5C-B-CE-S148-L004
+For Line VEBA
+./May_2022/14_May_22_Batch/Reads/Annotation_Germline/Annotation_output/VEBA-B-CE-S9
+./May_2022/14_May_batch/14_May_22_Batch/Reads/Annotation_Germline/Annotation_output/VEBA-B-CE-S9
+For Line VEBB
+./May_2022/14_May_22_Batch/Reads/Annotation_Germline/Annotation_output/VEBB-B-CE-S10
+./May_2022/14_May_batch/14_May_22_Batch/Reads/Annotation_Germline/Annotation_output/VEBB-B-CE-S10
+For Line VEDA
+./May_2022/14_May_22_Batch/Reads/Annotation_Germline/Annotation_output/VEDA-B-CE-S11
+./May_2022/14_May_batch/14_May_22_Batch/Reads/Annotation_Germline/Annotation_output/VEDA-B-CE-S11
+For Line VEDB
+For Line VEDC
+For Line VEDD
+For Line VEDE
+./May_2022/30_May_22_Batch/Annotation_Germline/Annotation_output/VEDE-B-CE-RSQ-S35
+For Line VEEA
+For Line VEEC
+For Line VEFA
+./May_2022/23_May_22_Batch/Annotation_Germline/Annotation_Output/VEFA-B-CE-S29
+For Line VEFB
+For Line VEFC
+For Line VEIA
+For Line VEIB
+For Line VEIF
+./May_2022/30_May_22_Batch/Annotation_Germline/Annotation_output/VEIF-B-CE-RSQ-S32
+For Line VEII
+./May_2022/30_May_22_Batch/Annotation_Germline/Annotation_output/VEII-B-CE-RSQ-S33
+For Line VEIJ
+./May_2022/30_May_22_Batch/Annotation_Germline/Annotation_output/VEIJ-B-CE-RSQ-S36
+For Line VEIL
+./May_2022/30_May_22_Batch/Annotation_Germline/Annotation_output/VEIL-B-CE-RSQ-S34
+For Line VEJB
+./May_2022/23_May_22_Batch/Annotation_Germline/Annotation_Output/VEJB-B-SE8-S40
+For Line VEKA
+./May_2022/23_May_22_Batch/Annotation_Germline/Annotation_Output/VEKA-B-CE-S19
+For Line VELC
+./May_2022/23_May_22_Batch/Annotation_Germline/Annotation_Output/VELC-B-CE-S20
+For Line VEMB
+./May_2022/23_May_22_Batch/Annotation_Germline/Annotation_Output/VEMB-B-CE-S21
+For Line VEMF
+./May_2022/23_May_22_Batch/Annotation_Germline/Annotation_Output/VEMF-B-CE-S22
+For Line VEMH
+./May_2022/23_May_22_Batch/Annotation_Germline/Annotation_Output/VEMH-B-CE-S23
+For Line VEPA
+./May_2022/23_May_22_Batch/Annotation_Germline/Annotation_Output/VEPA-B-CE-S24
+For Line VEPB
+./May_2022/23_May_22_Batch/Annotation_Germline/Annotation_Output/VEPB-B-CE-S25
+For Line VEPE
+./May_2022/23_May_22_Batch/Annotation_Germline/Annotation_Output/VEPE-B-CE-S26
+For Line VEPG
+./June_2022/06_June_22_Batch/Reads/Annotation_Germline/Annotation_Output/VEPG-B-CE-S8
+For Line VEPI
+./May_2022/23_May_22_Batch/Annotation_Germline/Annotation_Output/VEPI-B-CE-S27
+For Line VEQB
+./May_2022/23_May_22_Batch/Annotation_Germline/Annotation_Output/VEQB-B-CE-S28
+For Line VEQC
+./June_2022/15th_June_22_Batch_50/LCA-RTR1-BN-198/Annotation_Germline/Annotatin_Output/VEQC-B-SE8-S156-L004
+For Line VERF
+./May_2022/30_May_22_Batch/Annotation_Germline/Annotation_output/VERF-B-CE-S24
+For Line VESA
+./May_2022/30_May_22_Batch/Annotation_Germline/Annotation_output/VESA-B-CE-S20
+For Line VESD
+./June_2022/06_June_22_Batch/Reads/Annotation_Germline/Annotation_Output/VESD-B-CE-S6
+./May_2022/30_May_22_Batch/Annotation_Germline/Annotation_output/VESD-B-CE-S21
+For Line VESF
+./May_2022/30_May_22_Batch/Annotation_Germline/Annotation_output/VESF-B-SE8-S37
+For Line VESG
+For Line VETE
+./June_2022/06_June_22_Batch/Reads/Annotation_Germline/Annotation_Output/VETE-B-CE-S5
+./May_2022/30_May_22_Batch/Annotation_Germline/Annotation_output/VETE-B-CE-S22
+For Line VETF
+./May_2022/30_May_22_Batch/Annotation_Germline/Annotation_output/VETF-B-CE-S23
+For Line VETG
+./June_2022/06_June_22_Batch/Reads/Annotation_Germline/Annotation_Output/VETG-B-CE-S13
+For Line VEWA
+./June_2022/06_June_22_Batch/Reads/Annotation_Germline/Annotation_Output/VEWA-B-CE-S9
+For Line VEWD
+./June_2022/06_June_22_Batch/Reads/Annotation_Germline/Annotation_Output/VEWD-B-CE-S10
+For Line VEWE
+./June_2022/06_June_22_Batch/Reads/Annotation_Germline/Annotation_Output/VEWE-B-CE-S11
+For Line VEWF
+./June_2022/06_June_22_Batch/Reads/Annotation_Germline/Annotation_Output/VEWF-B-CE-S23
+For Line VEWG
+./June_2022/06_June_22_Batch/Reads/Annotation_Germline/Annotation_Output/VEWG-B-CE-S12
+For Line VEWH
+./May_2022/30_May_22_Batch/Annotation_Germline/Annotation_output/VEWH-B-SE8-S43
+For Line VEYA
+./June_2022/06_June_22_Batch/Reads/Annotation_Germline/Annotation_Output/VEYA-B-CE-S21
+For Line VEYF
+./June_2022/06_June_22_Batch/Reads/Annotation_Germline/Annotation_Output/VEYF-B-SE8-S35
+For Line VEZB
+./June_2022/06_June_22_Batch/Reads/Annotation_Germline/Annotation_Output/VEZB-B-CE-S22
+For Line VEZC
+./June_2022/06_June_22_Batch/Reads/Annotation_Germline/Annotation_Output/VEZC-B-CE-S30
+For Line VFAA
+./June_2022/15th_June_22_Batch_50/LCA-RTR1-BN-198/Annotation_Germline/Annotatin_Output/VFAA-B-CE-S163-L004
+For Line VFAB
+./June_2022/15th_June_22_Batch_50/LCA-RTR1-BN-198/Annotation_Germline/Annotatin_Output/VFAB-B-CE-S165-L004
+For Line VFAD
+./June_2022/15th_June_22_Batch_50/LCA-RTR1-BN-198/Annotation_Germline/Annotatin_Output/VFAD-B-SE8-S168-L004
+For Line VFBB
+./June_2022/15th_June_22_Batch_50/LCA-RTR1-BN-198/Annotation_Germline/Annotatin_Output/VFBB-B-CE-S173-L004
+For Line VFFC
+./June_2022/15th_June_22_Batch_50/LCA-RTR1-BN-198/Annotation_Germline/Annotatin_Output/VFFC-B-CE-S175-L004
+For Line VFFD
+./June_2022/15th_June_22_Batch_50/LCA-RTR1-BN-198/Annotation_Germline/Annotatin_Output/VFFD-B-CE-S176-L004
+For Line VFFE
+./June_2022/15th_June_22_Batch_50/LCA-RTR1-BN-198/Annotation_Germline/Annotatin_Output/VFFE-B-CE-S177-L004
+For Line VFFG
+./June_2022/15th_June_22_Batch_50/LCA-RTR1-BN-198/Annotation_Germline/Annotatin_Output/VFFG-B-CE-S178-L004
+For Line VFFI
+./June_2022/15th_June_22_Batch_50/LCA-RTR1-BN-198/Annotation_Germline/Annotatin_Output/VFFI-B-CE-S180-L004
+For Line VFFJ
+./June_2022/15th_June_22_Batch_50/LCA-RTR1-BN-198/Annotation_Germline/Annotatin_Output/VFFJ-B-CE-S181-L004
+For Line VG1C
+For Line VG1F
+For Line VG1G
+For Line VG1H
+./29th_August_L-69/Annotation_Germline/VG1H-B-SE8-S2-L004
+For Line VG2H
+For Line VG2I
+For Line VG2J
+For Line VG2K
+For Line VG2L
+For Line VGHA
+For Line VGLA
+For Line VGLB
+For Line VGLD
+For Line VGMA
+For Line VGMB
+For Line VGMH
+For Line VGNB
+For Line VGNC
+For Line VGND
+For Line VGOA
+For Line VGOB
+For Line VGOC
+For Line VGOD
+For Line VGOE
+For Line VGOF
+For Line VGRD
+For Line VGRF
+For Line VGRG
+For Line VGRH
+For Line VGRI
+For Line VGRJ
+For Line VGSA
+For Line VGSB
+For Line VGTB
+For Line VGTF
+For Line VGTG
+For Line VGTI
+For Line VGUA
+For Line VGUB
+For Line VGUC
+For Line VGUI
+For Line VGUJ
+For Line VGUK
+For Line VGUL
+For Line VGUM
+For Line VGUN
+For Line VGUO
+For Line VGVE
+For Line VGYA
+For Line VGYC
+For Line VGYF
+For Line VGYH
+For Line VGYJ
+For Line VGYK
+For Line VGYL
+For Line VGZB
+For Line VGZD
+For Line VGZE
+./October_2022/7th_October_W-82/Read/Annotation_Germline/Annotation_output/VGZE-B-CE-S40
+For Line VH3A
+For Line VH3B
+For Line VH3F
+For Line VH3G
+For Line VH3N
+For Line VH3P
+For Line VH3Q
+For Line VH3R
+For Line VH3U
+For Line VH3V
+For Line VH4C
+For Line VH4D
+For Line VH4G
+./7th_Sep_W-72/Annotation_Germline/VH4G-B-SE8-S101
+For Line VH4H
+For Line VHAA
+For Line VHAB
+For Line VHAC
+For Line VHAE
+For Line VHAG
+For Line VHAH
+For Line VHAI
+For Line VHAL
+For Line VHAP
+For Line VHAW
+For Line VHAX
+For Line VHAY
+For Line VHCC
+For Line VHCD
+For Line VHCF
+For Line VHCJ
+For Line VHCK
+For Line VHCL
+For Line VHDA
+For Line VHDB
+For Line VHDD
+For Line VHHA
+For Line VHHB
+./29th_August_L-69/Annotation_Germline/VHHB-B-SE8-S8-L004
+For Line VHIA
+./29th_August_L-69/Annotation_Germline/VHIA-B-CE-S13-L004
+For Line VHIC
+./9th_September_LC-71/Annotation_Germline/VHIC-B-CE-S159-L004
+For Line VHIE
+For Line VHIG
+./29th_August_L-69/Annotation_Germline/VHIG-B-CE-S16-L004
+For Line VHIH
+For Line VHIN
+./11th_OCT_W-83/Annotation_Germline/Annotation_output/VHIN-B-CE-S33
+For Line VHIQ
+./29th_August_L-69/Annotation_Germline/VHIQ-B-SE8-S21-L004
+For Line VHIR
+./29th_August_L-69/Annotation_Germline/VHIR-B-SE8-S23-L004
+For Line VHJC
+For Line VHJD
+For Line VHJE
+For Line VHLC
+For Line VHLD
+For Line VHLE
+For Line VHLF
+For Line VHLG
+For Line VHLH
+For Line VHLI
+For Line VHPH
+For Line VHPI
+For Line VHPJ
+For Line VHPK
+For Line VHPL
+For Line VHPM
+For Line VHPN
+For Line VHPO
+For Line VHPQ
+For Line VHPT
+For Line VHPU
+For Line VHQM
+For Line VHQN
+For Line VHQO
+For Line VHQP
+For Line VHQQ
+For Line VHQS
+For Line VHQV
+./9th_September_LC-71/Annotation_Germline/VHQV-B-SE8-S152-L004
+For Line VHRB
+For Line VHRC
+For Line VHRF
+For Line VHRH
+For Line VHRI
+For Line VHRJ
+For Line VHRK
+For Line VHRL
+For Line VHRR
+./7th_Sep_W-72/Annotation_Germline/VHRR-B-SE8-S110
+For Line VHSA
+For Line VHSB
+For Line VHVB
+./9th_September_LC-71/Annotation_Germline/VHVB-B-CE-S158-L004
+For Line VHWA
+For Line VHWC
+For Line VHWF
+For Line VHWI
+For Line VHWJ
+For Line VHWK
+For Line VHWL
+For Line VHWM
+For Line VHWN
+./12th_Sept_W-73/Annotation_Germline/VHWN-B-CE-S19
+For Line VHWU
+For Line VHWX
+For Line VHXA
+For Line VHXB
+For Line VHXC
+For Line VHXD
+For Line VHXE
+For Line VHXF
+For Line VHXG
+For Line VHXH
+For Line VHXJ
+For Line VHXN
+For Line VHYA
+./7th_Sep_W-72/Annotation_Germline/VHYA-B-SE8-S102
+For Line VHYB
+For Line VHYC
+For Line VHYE
+./13th_Sep_W-74/Annotation_Germline/VHYE-B-SE8-S16
+For Line VHYF
+For Line VHYG
+For Line VHYH
+For Line VHYJ
+For Line VHZD
+For Line VHZF
+For Line VHZG
+For Line VI1C
+./21th_october_R-B85_87/Annotation_Germline/Annotation_output/VI1C-B-SE8-CL-S10-L003-S1-L001
+./21st_Oct_RC_85-87_Batch/Reads/Annotation_Germline/Annotation_output/VI1C-B-SE8-CL-S10-L003-S1-L001
+For Line VI1E
+./October_2022/7th_October_W-82/Read/Annotation_Germline/Annotation_output/VI1E-B-CE-S37
+For Line VI1G
+./October_2022/7th_October_W-82/Read/Annotation_Germline/Annotation_output/VI1G-B-CE-S36
+For Line VI1H
+./October_2022/7th_October_W-82/Read/Annotation_Germline/Annotation_output/VI1H-B-CE-S35
+For Line VI2C
+./11th_OCT_W-83/Annotation_Germline/Annotation_output/VI2C-B-SE8-CL-RES-S29
+For Line VI2F
+./11th_OCT_W-83/Annotation_Germline/Annotation_output/VI2F-B-SE8-CL-S30
+For Line VI2H
+./11th_OCT_W-83/Annotation_Germline/Annotation_output/VI2H-B-CE-S31
+For Line VI2I
+./11th_OCT_W-83/Annotation_Germline/Annotation_output/VI2I-B-CE-S32
+For Line VI2K
+./11th_OCT_W-83/Annotation_Germline/Annotation_output/VI2K-B-CE-S34
+For Line VI2L
+./11th_OCT_W-83/Annotation_Germline/Annotation_output/VI2L-B-CE-S35
+For Line VI2M
+./11th_OCT_W-83/Annotation_Germline/Annotation_output/VI2M-B-CE-S36
+For Line VI2N
+./11th_OCT_W-83/Annotation_Germline/Annotation_output/VI2N-B-CE-S37
+For Line VI3B
+./11th_OCT_W-83/Annotation_Germline/Annotation_output/VI3B-B-CE-S38
+For Line VI3C
+./11th_OCT_W-83/Annotation_Germline/Annotation_output/VI3C-B-CE-S39
+For Line VI3D
+./21th_october_R-B85_87/Annotation_Germline/Annotation_output/VI3D-B-CE-S1-L003-S1-L001
+./21st_Oct_RC_85-87_Batch/Reads/Annotation_Germline/Annotation_output/VI3D-B-CE-S1-L003-S1-L001
+For Line VI3E
+./21th_october_R-B85_87/Annotation_Germline/Annotation_output/VI3E-B-SE8-CL-S9-L003-S1-L001
+./21st_Oct_RC_85-87_Batch/Reads/Annotation_Germline/Annotation_output/VI3E-B-SE8-CL-S9-L003-S1-L001
+For Line VI3H
+./21th_october_R-B85_87/Annotation_Germline/Annotation_output/VI3H-B-CE-S2-L003-S1-L001
+./21st_Oct_RC_85-87_Batch/Reads/Annotation_Germline/Annotation_output/VI3H-B-CE-S2-L003-S1-L001
+For Line VI3I
+./21th_october_R-B85_87/Annotation_Germline/Annotation_output/VI3I-B-CE-S3-L003-S1-L001
+./21st_Oct_RC_85-87_Batch/Reads/Annotation_Germline/Annotation_output/VI3I-B-CE-S3-L003-S1-L001
+For Line VI3K
+./21th_october_R-B85_87/Annotation_Germline/Annotation_output/VI3K-B-CE-S4-L003-S1-L001
+./21st_Oct_RC_85-87_Batch/Reads/Annotation_Germline/Annotation_output/VI3K-B-CE-S4-L003-S1-L001
+For Line VI3L
+./21th_october_R-B85_87/Annotation_Germline/Annotation_output/VI3L-B-CE-S5-L003-S1-L001
+./21st_Oct_RC_85-87_Batch/Reads/Annotation_Germline/Annotation_output/VI3L-B-CE-S5-L003-S1-L001
+For Line VI3R
+./21th_october_R-B85_87/Annotation_Germline/Annotation_output/VI3R-B-CE-R-S20-L003-S1-L001
+./21st_Oct_RC_85-87_Batch/Reads/Annotation_Germline/Annotation_output/VI3R-B-CE-R-S20-L003-S1-L001
+For Line VI3V
+./21th_october_R-B85_87/Annotation_Germline/Annotation_output/VI3V-B-CE-S6-L003-S1-L001
+./21st_Oct_RC_85-87_Batch/Reads/Annotation_Germline/Annotation_output/VI3V-B-CE-S6-L003-S1-L001
+For Line VI3W
+./21th_october_R-B85_87/Annotation_Germline/Annotation_output/VI3W-B-CE-S7-L003-S1-L001
+./21st_Oct_RC_85-87_Batch/Reads/Annotation_Germline/Annotation_output/VI3W-B-CE-S7-L003-S1-L001
+For Line VI4C
+./21th_october_R-B85_87/Annotation_Germline/Annotation_output/VI4C-B-CE-S8-L003-S1-L001
+./21st_Oct_RC_85-87_Batch/Reads/Annotation_Germline/Annotation_output/VI4C-B-CE-S8-L003-S1-L001
+For Line VIAA
+For Line VIAB
+For Line VIAC
+For Line VIAK
+For Line VIAN
+For Line VIAO
+For Line VIAP
+For Line VIAQ
+For Line VIAR
+For Line VIAS
+For Line VIBA
+For Line VIBF
+For Line VIBG
+For Line VIBK
+For Line VIBM
+./October_2022/06th_Oct_W-81_Batch/Annotation_Germline/Annotation_Output/VIBM-B-R-CE-S42
+For Line VIEC
+For Line VIEL
+For Line VIEM
+For Line VIFD
+For Line VIFE
+For Line VIFJ
+For Line VIFK
+For Line VIGF
+For Line VIGG
+For Line VIGH
+For Line VIHA
+For Line VIHB
+For Line VIHC
+For Line VIHE
+./10th_OCT_R-80/Annotation_Germline/Annotation_Output/VIHE-B-SE8-Rerun-S1-L004
+For Line VIHG
+./23rd_Sept_W-76/Annotation_Germline/VIHG-B-CE-S20
+For Line VIIN
+./23rd_Sept_W-76/Annotation_Germline/VIIN-B-CE-S31
+For Line VIJA
+./23rd_Sept_W-76/Annotation_Germline/VIJA-B-CE-S21
+For Line VIJC
+./23rd_Sept_W-76/Annotation_Germline/VIJC-B-CE-S22
+For Line VIJD
+./23rd_Sept_W-76/Annotation_Germline/VIJD-B-CE-S23
+For Line VIJE
+./23rd_Sept_W-76/Annotation_Germline/VIJE-B-CE-S24
+For Line VIJF
+./23rd_Sept_W-76/Annotation_Germline/VIJF-B-CE-S25
+For Line VIJH
+./23rd_Sept_W-76/Annotation_Germline/VIJH-B-CE-S26
+For Line VIJI
+./23rd_Sept_W-76/Annotation_Germline/VIJI-B-CE-S27
+For Line VIJJ
+./23rd_Sept_W-76/Annotation_Germline/VIJJ-B-CE-S28
+For Line VIJK
+./23rd_Sept_W-76/Annotation_Germline/VIJK-B-CE-S29
+For Line VIJL
+./23rd_Sept_W-76/Annotation_Germline/VIJL-B-CE-S30
+For Line VIJM
+./23rd_Sept_W-76/Annotation_Germline/VIJM-B-SE8-CL-S42
+For Line VIJN
+./26th_Sep_W-78/Annotation_Germline/Annotation_Output/VIJN-B-CE-S27
+./26th_Sept_W-78_Batch/Annotation_Germline/Annotation_output/VIJN-B-CE-S27
+For Line VIJP
+./26th_Sep_W-78/Annotation_Germline/Annotation_Output/VIJP-B-CE-S26
+./26th_Sept_W-78_Batch/Annotation_Germline/Annotation_output/VIJP-B-CE-S26
+For Line VILA
+./26th_Sep_W-78/Annotation_Germline/Annotation_Output/VILA-B-CE-S2
+./26th_Sept_W-78_Batch/Annotation_Germline/Annotation_output/VILA-B-CE-S2
+For Line VILO
+./26th_Sep_W-78/Annotation_Germline/Annotation_Output/VILO-B-CE-S21
+./26th_Sept_W-78_Batch/Annotation_Germline/Annotation_output/VILO-B-CE-S21
+For Line VIMA
+./23rd_Sept_W-76/Annotation_Germline/VIMA-B-CE-S19
+For Line VIMB
+./26th_Sep_W-78/Annotation_Germline/Annotation_Output/VIMB-B-CE-S22
+./26th_Sept_W-78_Batch/Annotation_Germline/Annotation_output/VIMB-B-CE-S22
+For Line VIMC
+./26th_Sep_W-78/Annotation_Germline/Annotation_Output/VIMC-B-CE-S23
+./26th_Sept_W-78_Batch/Annotation_Germline/Annotation_output/VIMC-B-CE-S23
+For Line VIMD
+./26th_Sep_W-78/Annotation_Germline/Annotation_Output/VIMD-B-CE-S24
+./26th_Sept_W-78_Batch/Annotation_Germline/Annotation_output/VIMD-B-CE-S24
+For Line VIME
+./26th_Sep_W-78/Annotation_Germline/Annotation_Output/VIME-B-CE-S25
+./26th_Sept_W-78_Batch/Annotation_Germline/Annotation_output/VIME-B-CE-S25
+For Line VINC
+./26th_Sep_W-78/Annotation_Germline/Annotation_Output/VINC-B-CE-S45
+./26th_Sept_W-78_Batch/Annotation_Germline/Annotation_output/VINC-B-CE-S45
+For Line VINE
+./October_2022/1st_Oct_W-79_Batch/Reads/Annotation_Germline/Annotation_Germ_Output/VINE-B-SE8-CL-S21
+For Line VINJ
+./26th_Sep_W-78/Annotation_Germline/Annotation_Output/VINJ-B-CE-S46
+./26th_Sept_W-78_Batch/Annotation_Germline/Annotation_output/VINJ-B-CE-S46
+For Line VINO
+./October_2022/1st_Oct_W-79_Batch/Reads/Annotation_Germline/Annotation_Germ_Output/VINO-B-SE8-CL-S22
+For Line VINP
+./26th_Sep_W-78/Annotation_Germline/Annotation_Output/VINP-B-CE-S47
+./26th_Sept_W-78_Batch/Annotation_Germline/Annotation_output/VINP-B-CE-S47
+For Line VINQ
+./26th_Sep_W-78/Annotation_Germline/Annotation_Output/VINQ-B-CE-S48
+./26th_Sept_W-78_Batch/Annotation_Germline/Annotation_output/VINQ-B-CE-S48
+For Line VINR
+./26th_Sep_W-78/Annotation_Germline/Annotation_Output/VINR-B-CE-S49
+./26th_Sept_W-78_Batch/Annotation_Germline/Annotation_output/VINR-B-CE-S49
+For Line VINS
+./26th_Sep_W-78/Annotation_Germline/Annotation_Output/VINS-B-CE-S50
+./26th_Sept_W-78_Batch/Annotation_Germline/Annotation_output/VINS-B-CE-S50
+For Line VINT
+./26th_Sep_W-78/Annotation_Germline/Annotation_Output/VINT-B-CE-S51
+./26th_Sept_W-78_Batch/Annotation_Germline/Annotation_output/VINT-B-CE-S51
+For Line VINU
+./26th_Sep_W-78/Annotation_Germline/Annotation_Output/VINU-B-CE-S52
+./26th_Sept_W-78_Batch/Annotation_Germline/Annotation_output/VINU-B-CE-S52
+For Line VINV
+./26th_Sep_W-78/Annotation_Germline/Annotation_Output/VINV-B-CE-S53
+./26th_Sept_W-78_Batch/Annotation_Germline/Annotation_output/VINV-B-CE-S53
+For Line VINW
+./October_2022/1st_Oct_W-79_Batch/Reads/Annotation_Germline/Annotation_Germ_Output/VINW-B-CE-S23
+For Line VINX
+./October_2022/1st_Oct_W-79_Batch/Reads/Annotation_Germline/Annotation_Germ_Output/VINX-B-CE-S24
+For Line VIOE
+./October_2022/1st_Oct_W-79_Batch/Reads/Annotation_Germline/Annotation_Germ_Output/VIOE-B-CE-S32
+For Line VIOI
+./26th_Sep_W-78/Annotation_Germline/Annotation_Output/VIOI-B-CE-S43
+./26th_Sept_W-78_Batch/Annotation_Germline/Annotation_output/VIOI-B-CE-S43
+For Line VIOJ
+./26th_Sep_W-78/Annotation_Germline/Annotation_Output/VIOJ-B-CE-S44
+./26th_Sept_W-78_Batch/Annotation_Germline/Annotation_output/VIOJ-B-CE-S44
+For Line VIOK
+./October_2022/1st_Oct_W-79_Batch/Reads/Annotation_Germline/Annotation_Germ_Output/VIOK-B-CE-S33
+For Line VION
+./October_2022/1st_Oct_W-79_Batch/Reads/Annotation_Germline/Annotation_Germ_Output/VION-B-CE-S34
+For Line VIPD
+./October_2022/1st_Oct_W-79_Batch/Reads/Annotation_Germline/Annotation_Germ_Output/VIPD-B-CE-S35
+For Line VIPE
+./October_2022/1st_Oct_W-79_Batch/Reads/Annotation_Germline/Annotation_Germ_Output/VIPE-B-SE8-CL-S52
+For Line VIPG
+./October_2022/1st_Oct_W-79_Batch/Reads/Annotation_Germline/Annotation_Germ_Output/VIPG-B-CE-S36
+For Line VISB
+./October_2022/1st_Oct_W-79_Batch/Reads/Annotation_Germline/Annotation_Germ_Output/VISB-B-CE-S37
+For Line VISD
+./October_2022/1st_Oct_W-79_Batch/Reads/Annotation_Germline/Annotation_Germ_Output/VISD-B-CE-S38
+For Line VISF
+./October_2022/1st_Oct_W-79_Batch/Reads/Annotation_Germline/Annotation_Germ_Output/VISF-B-CE-S39
+For Line VISG
+./October_2022/1st_Oct_W-79_Batch/Reads/Annotation_Germline/Annotation_Germ_Output/VISG-B-CE-S40
+For Line VISJ
+./10th_OCT_R-80/Annotation_Germline/Annotation_Output/VISJ-B-SE8-CL-S5-L004
+For Line VISR
+./October_2022/1st_Oct_W-79_Batch/Reads/Annotation_Germline/Annotation_Germ_Output/VISR-B-CE-S41
+For Line VITC
+./October_2022/1st_Oct_W-79_Batch/Reads/Annotation_Germline/Annotation_Germ_Output/VITC-B-CE-S42
+For Line VITG
+./October_2022/1st_Oct_W-79_Batch/Reads/Annotation_Germline/Annotation_Germ_Output/VITG-B-CE-S43
+For Line VITL
+./October_2022/1st_Oct_W-79_Batch/Reads/Annotation_Germline/Annotation_Germ_Output/VITL-B-CE-S44
+For Line VIUA
+./October_2022/1st_Oct_W-79_Batch/Reads/Annotation_Germline/Annotation_Germ_Output/VIUA-B-CE-S45
+For Line VIUB
+./October_2022/1st_Oct_W-79_Batch/Reads/Annotation_Germline/Annotation_Germ_Output/VIUB-B-CE-S46
+For Line VIUC
+./October_2022/06th_Oct_W-81_Batch/Annotation_Germline/Annotation_Output/VIUC-B-CE-S4
+For Line VIUJ
+./October_2022/06th_Oct_W-81_Batch/Annotation_Germline/Annotation_Output/VIUJ-B-CE-S5
+For Line VIUK
+./October_2022/06th_Oct_W-81_Batch/Annotation_Germline/Annotation_Output/VIUK-B-CE-S6
+For Line VIVB
+./October_2022/7th_October_W-82/Read/Annotation_Germline/Annotation_output/VIVB-B-CE-S6
+For Line VIVE
+./October_2022/7th_October_W-82/Read/Annotation_Germline/Annotation_output/VIVE-B-CE-S7
+For Line VIVF
+./October_2022/7th_October_W-82/Read/Annotation_Germline/Annotation_output/VIVF-B-CE-S8
+For Line VIVG
+./October_2022/06th_Oct_W-81_Batch/Annotation_Germline/Annotation_Output/VIVG-B-CE-S38
+For Line VIVI
+./October_2022/06th_Oct_W-81_Batch/Annotation_Germline/Annotation_Output/VIVI-B-CE-S39
+For Line VIWA
+./October_2022/7th_October_W-82/Read/Annotation_Germline/Annotation_output/VIWA-B-SE8-CL-RES-S9
+For Line VIWB
+./October_2022/7th_October_W-82/Read/Annotation_Germline/Annotation_output/VIWB-B-SE8-CL-RES-S10
+For Line VIWF
+./October_2022/7th_October_W-82/Read/Annotation_Germline/Annotation_output/VIWF-B-CE-S17
+For Line VIWG
+./October_2022/7th_October_W-82/Read/Annotation_Germline/Annotation_output/VIWG-B-CE-S18
+For Line VIZH
+./October_2022/7th_October_W-82/Read/Annotation_Germline/Annotation_output/VIZH-B-CE-S38
+For Line VIZJ
+./October_2022/7th_October_W-82/Read/Annotation_Germline/Annotation_output/VIZJ-B-CE-S39
+For Line VIZK
+./October_2022/7th_October_W-82/Read/Annotation_Germline/Annotation_output/VIZK-B-CE-S19
+For Line VJ1C
+For Line VJCA
+./17th_Oct_W-86_BATCH/Reads/Annotation_Germline/Annotation_output/VJCA-B-CE-S39
+./18th_october_W-86/Annotation_Germline/Annotation_output/VJCA-B-CE-S39
+For Line VJCH
+./17th_Oct_W-86_BATCH/Reads/Annotation_Germline/Annotation_output/VJCH-B-CE-S40
+./18th_october_W-86/Annotation_Germline/Annotation_output/VJCH-B-CE-S40
+For Line VJCI
+./17th_Oct_W-86_BATCH/Reads/Annotation_Germline/Annotation_output/VJCI-B-CE-S42
+./18th_october_W-86/Annotation_Germline/Annotation_output/VJCI-B-CE-S42
+For Line VJCL
+./26th_october_W-89/Annotation_Germline/Annotation_output/VJCL-B-R1-SE8-CL-S30
+For Line VJCO
+./17th_Oct_W-86_BATCH/Reads/Annotation_Germline/Annotation_output/VJCO-B-CE-S41
+./18th_october_W-86/Annotation_Germline/Annotation_output/VJCO-B-CE-S41
+For Line VJFC
+./26th_october_W-89/Annotation_Germline/Annotation_output/VJFC-B-CE-S12
+For Line VJFE
+./17th_Oct_W-86_BATCH/Reads/Annotation_Germline/Annotation_output/VJFE-B-CE-S44
+./18th_october_W-86/Annotation_Germline/Annotation_output/VJFE-B-CE-S44
+For Line VJGB
+./26th_october_W-89/Annotation_Germline/Annotation_output/VJGB-B-CE-S37
+For Line VJGE
+./17th_Oct_W-86_BATCH/Reads/Annotation_Germline/Annotation_output/VJGE-B-CE-S45
+./18th_october_W-86/Annotation_Germline/Annotation_output/VJGE-B-CE-S45
+For Line VJGL
+./11th_october_W-84/Reads/Annotation_Germline/Annotation_output/VJGL-B-SE8-CL-R1-S3
+./18th_october_W-88/Annotation_Germline/Annotation_output/VJGL-B-R3-1-SE8-S2
+./11th_OCT_W-84/Annotation_Germline/VJGL-B-SE8-CL-R1-S3
+./18th_october_W-86/XP_and_TA_G/Annotation_Germline/Annotation_Output/VJGL-B-SE8-Reupload-CL-R2-S55
+For Line VJGM
+./17th_Oct_W-86_BATCH/Reads/Annotation_Germline/Annotation_output/VJGM-B-CE-S46
+./18th_october_W-86/Annotation_Germline/Annotation_output/VJGM-B-CE-S46
+For Line VJGN
+./21th_october_R-B85_87/Annotation_Germline/Annotation_output/VJGN-B-SE8-CL-S27-L002-S1-L001
+./21st_Oct_RC_85-87_Batch/Reads/Annotation_Germline/Annotation_output/VJGN-B-SE8-CL-S27-L002-S1-L001
+For Line VJGO
+./17th_Oct_W-86_BATCH/Reads/Annotation_Germline/Annotation_output/VJGO-B-CE-S47
+./18th_october_W-86/Annotation_Germline/Annotation_output/VJGO-B-CE-S47
+For Line VJGP
+./17th_Oct_W-86_BATCH/Reads/Annotation_Germline/Annotation_output/VJGP-B-CE-S48
+./18th_october_W-86/Annotation_Germline/Annotation_output/VJGP-B-CE-S48
+For Line VJJD
+./26th_october_W-89/Annotation_Germline/Annotation_output/VJJD-B-CE-S13
+For Line VJJE
+./26th_october_W-89/Annotation_Germline/Annotation_output/VJJE-B-CE-S14
+For Line VJJG
+./26th_october_W-89/Annotation_Germline/Annotation_output/VJJG-B-CE-S15
+For Line VJJH
+./26th_october_W-89/Annotation_Germline/Annotation_output/VJJH-B-CE-S32
+For Line VJJJ
+./26th_october_W-89/Annotation_Germline/Annotation_output/VJJJ-B-CE-S33
+For Line VJJK
+./17th_Oct_W-86_BATCH/Reads/Annotation_Germline/Annotation_output/VJJK-B-CE-S49
+./18th_october_W-86/Annotation_Germline/Annotation_output/VJJK-B-CE-S49
+For Line VJJN
+./26th_october_W-89/Annotation_Germline/Annotation_output/VJJN-B-CE-S34
+For Line VJJO
+./26th_october_W-89/Annotation_Germline/Annotation_output/VJJO-B-CE-S35
+For Line VJKD
+./26th_october_W-89/Annotation_Germline/Annotation_output/VJKD-B-SE8-CL-S42
+For Line VJKG
+./26th_october_W-89/Annotation_Germline/Annotation_output/VJKG-B-CE-S38
+For Line VJKH
+./26th_october_W-89/Annotation_Germline/Annotation_output/VJKH-B-SE8-CL-S31
+For Line VJKI
+./26th_october_W-89/Annotation_Germline/Annotation_output/VJKI-B-CE-S39
+For Line VJKK
+./26th_october_W-89/Annotation_Germline/Annotation_output/VJKK-B-CE-S36
+For Line VJLA
+./26th_october_W-89/Annotation_Germline/Annotation_output/VJLA-B-CE-S40
+For Line VJLG
+./26th_october_W-89/Annotation_Germline/Annotation_output/VJLG-B-CE-S41
+For Line VJLH
+./18th_october_W-88/Annotation_Germline/Annotation_output/VJLH-B-R2-SE8-S4
+For Line VJLK
+./31st_october_W-90/Annotation_Germline/Annotation_output/VJLK-B-CE-S13
+For Line VJLL
+./31st_october_W-90/Annotation_Germline/Annotation_output/VJLL-B-CE-S14
+For Line VJMA
+./31st_october_W-90/Annotation_Germline/Annotation_output/VJMA-B-CE-SL-S78
+For Line VJME
+./31st_october_W-90/Annotation_Germline/Annotation_output/VJME-B-CE-S15
+For Line VJMF
+./31st_october_W-90/Annotation_Germline/Annotation_output/VJMF-B-SE8-S20
+For Line VJNB
+./31st_october_W-90/Annotation_Germline/Annotation_output/VJNB-B-CE-S16
+For Line VJND
+./31st_october_W-90/Annotation_Germline/Annotation_output/VJND-B-CE-S17
+For Line VJNE
+./31st_october_W-90/Annotation_Germline/Annotation_output/VJNE-B-CE-S18
+For Line VJNF
+./31st_october_W-90/Annotation_Germline/Annotation_output/VJNF-B-CE-S19
+For Line VJQD
+./31st_october_W-90/Annotation_Germline/Annotation_output/VJQD-B-CE-SL-S70
+For Line VJQE
+./31st_october_W-90/Annotation_Germline/Annotation_output/VJQE-B-SE8-S79
+For Line VJQF
+./31st_october_W-90/Annotation_Germline/Annotation_output/VJQF-B-CE-SL-S71
+For Line VJQG
+./31st_october_W-90/Annotation_Germline/Annotation_output/VJQG-B-CE-SL-S72
+For Line VJQH
+./31st_october_W-90/Annotation_Germline/Annotation_output/VJQH-B-CE-SL-S73
+For Line VJQI
+./31st_october_W-90/Annotation_Germline/Annotation_output/VJQI-B-CE-SL-S74
+For Line VJQJ
+./31st_october_W-90/Annotation_Germline/Annotation_output/VJQJ-B-CE-SL-S75
+For Line VJQK
+./31st_october_W-90/Annotation_Germline/Annotation_output/VJQK-B-CE-SL-S76
+For Line VJQN
+./31st_october_W-90/Annotation_Germline/Annotation_output/VJQN-B-CE-SL-S77
+For Line VJRD
+For Line VJRH
+For Line VJRI
+For Line VJRK
+For Line VJSA
+For Line VJSB
+For Line VJSF
+For Line VJTA
+For Line VJTB
+For Line VJTE
+For Line VJTF
+For Line VJTK
+For Line VJUC
+For Line VJUG
+For Line VJUI
+For Line VJZA
+For Line VJZB
+For Line VJZC
+For Line VJZD
+For Line VJZE
+For Line VJZG
+For Line VJZI
+For Line VJZJ
+For Line VJZM
+For Line VJZP
+For Line VJZQ
+For Line VJZS
+For Line VKBG

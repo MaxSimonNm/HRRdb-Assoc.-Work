@@ -6,6 +6,11 @@ Created on Tue Nov 15 17:36:32 2022
 @author: nilesh@4basecare.com
 """
 #### Package Import
+"""
+Created on Tue Nov 15 17:36:32 2022
+@author: nilesh@4basecare.com
+"""
+#### Package Import
 import pandas as pd
 import numpy as np
 import os
@@ -83,27 +88,10 @@ for (j, k) in filegrp:
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 '''
 #%% Module 1 Merging Files
 source_files = sorted(Path('/home/max/Github/HRRdb/HRRdb_ScriptWork/').glob('*.csv'))
-
-
 #%%
-
 dataframes =[]
 for group in chunker(source_files, 2):
     print(group)
@@ -128,25 +116,16 @@ for group in chunker(source_files, 2):
       
         
 #%%
-
 df_all = pd.concat(dataframes)
-
 column_to_move = df_all.pop('Sample_ID') # insert column with insert(location, column_name, column_value)
-
 df_all.insert(0, "Sample_ID", column_to_move)
-
 #~ Export
 #df_all.to_csv('/home/bioinfo/Nilesh/FE_merged/merged.csv', index = False)
-
 #%%Module 2 Filtering Files based on HRR Genes
-
 hrr_genes = pd.read_csv("/home/max/Github/HRRdb/HRR_genes.txt", sep='/t')
-
 hrr_df = pd.merge(df_all, hrr_genes, how="inner", left_on='Ref.Gene', right_on='HRR_Genes')
-
 #hrr_df.pop("HRR_Genes")
 del hrr_df["HRR_Genes"]  #Deleting the HRR_Genes col
-
 #~ Export
 #hrr_df.to_csv('/home/max/Github/HRRdb/HRRdb_ScriptWork/df_new.csv', index = False)
 '''

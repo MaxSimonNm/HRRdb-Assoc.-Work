@@ -14,9 +14,10 @@ from pathlib import Path
 
 #%%  Edit Variables Here
 
-dirpath = '/home/bioinfo/git/HRRdb/HRRdb_ScriptWork/'
-hrr_genes = pd.read_csv("/home/bioinfo/git/HRRdb/HRR_genes.txt", sep='/t')
-chunk_size = 3  #Set Number of files per chunk.
+dirpath = '/home/bioinfo/Nilesh/HRRdb_Samples/Multi_Anno_AllSamples/FE_merged/'	#Folder containing MultiAnno Samples
+savepath = '/home/bioinfo/Nilesh/HRRdb_Samples/HRDb_Output/'			#Folder Path for Saving the Chunks
+hrr_genes = pd.read_csv("/home/bioinfo/git/HRRdb/HRR_genes.txt", sep='/t')	#Path for HRR Genes file
+chunk_size = 10  #Set Number of files per chunk.
                 #If total files is 5, and chunk size is 3,
                 #then 2 folders will be made, 
                 #1st folder will have 3 files, 2nd one will have 2 files
@@ -26,8 +27,8 @@ chunk_size = 3  #Set Number of files per chunk.
 file_list = os.listdir(dirpath)
 
 #Remove files that are not Samples
-file_list.remove('HRRdb_filemaker.py') 
-file_list.remove('New.py')
+#file_list.remove('HRD_FileProcessor.py') 
+#file_list.remove('save')
 
 chunked_list = [file_list[i:i+chunk_size] for i in range(0, len(file_list), chunk_size)]
 #print(chunked_list)
@@ -38,7 +39,7 @@ dt=dict(enumerate(chunked_list))  #Nested List converted to Dictionary
 
 for keys in dt:                   #Folder Creation based on number of Chunk keys
   print(keys)
-  os.mkdir(str(keys))
+  os.mkdir(savepath+str(keys))
   
 dt_list = [[k,v] for k, values in dt.items() for v in values]
   
@@ -49,13 +50,13 @@ dt_list = [[k,v] for k, values in dt.items() for v in values]
 
 
 for a,b in dt_list:               #Copying files to their specific chunk
-    os.system('cp '+dirpath+str(b)+' '+str(a)+'/'+str(b))
+    os.system('cp '+dirpath+str(b)+' '+savepath+str(a)+'/'+str(b))
     
 
 #%% Working on Files in each Chunk Folder
 
 for keys in dt:                   #Looping through each folder created based on keys
-    os.chdir(str(keys))
+    os.chdir(savepath+str(keys))
     key_files = sorted(Path('./').glob('*.csv'))
     
     samples = pd.DataFrame()

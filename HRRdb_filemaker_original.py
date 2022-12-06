@@ -97,7 +97,7 @@ for (j, k) in filegrp:
 
 
 
-'''
+
 #%% Module 1 Merging Files
 source_files = sorted(Path('/home/max/Github/HRRdb/HRRdb_ScriptWork/').glob('*.csv'))
 
@@ -149,4 +149,4 @@ del hrr_df["HRR_Genes"]  #Deleting the HRR_Genes col
 
 #~ Export
 #hrr_df.to_csv('/home/max/Github/HRRdb/HRRdb_ScriptWork/df_new.csv', index = False)
-'''
+

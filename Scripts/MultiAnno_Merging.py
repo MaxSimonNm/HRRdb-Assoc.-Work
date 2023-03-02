@@ -1,12 +1,13 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 import os
 import pandas as pd
 import warnings
 import time
+import telegram_send
 
 start_time = time.time()
 
-dirpath= '/home/bioinfo/Nilesh/HRRdb_Samples/HRR_G+_VCFs_Elucidata/Time'
+dirpath= '/home/bioinfo/Nilesh/HRRdb_Samples/s4_HDD_TMB_VCFs/s4_Outside_1-17_Som_MultAnno'
 test='HRR'
 sample_type='DNA [FE,FFPE]' #"DNA [Blood]"
 
@@ -19,7 +20,7 @@ cohort4= pd.read_csv("/home/bioinfo/nishtha/TMB_17Aug/filter/4basecare-germline-
 testgenes= list(genes[test].dropna())
 testgenes=[g.upper() for g in testgenes]
 
-#making FE_merged and FE_filtered folders in the destination dir
+#making FE_merged folders in the destination dir
 folders= os.listdir(dirpath)
 
 if 'FE_merged' in folders:
@@ -166,7 +167,9 @@ for f in folders:
     final_df.to_csv(output_path, index=False)
     
 
-print("Time elapsed: {:.2f} seconds".format(time.time() - start_time))
-   
+####
+time_taken = ("Time taken: {:.2f} seconds".format(time.time() - start_time))   
 os.system("notify-send 'MultiAnno File Merger' 'Process Finished'")
-os.system("telegram-send 'MultiAnno FIle Merger finished'")
+msg = f"MultiAnno File Merger Finished @Nilesh_Mukherjee | {time_taken}"
+print(msg) #for stdout and telegram-send --stdin
+telegram_send.send(messages=[msg]) #for telegram notification

@@ -3,15 +3,14 @@ SECONDS=0
 
 echo "PATHFINDER"
 
-
-input="/home/bioinfo/Nilesh/HRRdb_Samples/s4_HDD_TMB_VCFs/outside-vcf_list.txt"
+input="/home/bioinfo/Nilesh/HRRdb_Samples/s4_HDD_TMB_VCFs/attempt2_192_Somatic.txt"
 while IFS= read -r line
 do
 echo "Starting ${line}"
 
 #%% Option1
 #echo "For Line ${line}" >> ~/Pathfound_filtered3.txt
-find /media/bioinfo/Basecare_s4/TMB_files/Annotation/research/TMB/ -type f -name "${line}*".vcf >> ~/Nilesh/HRRdb_Samples/s4_HDD_TMB_VCFs/s4_Outside_VCFs_Paths.txt    
+find /media/bioinfo/Basecare_s4/TMB_files/Annotation/research/TMB/ -type f -name "${line}*".vcf >> ~/Nilesh/HRRdb_Samples/s4_HDD_TMB_VCFs/attempt2_192_Somatic_Paths.txt    
 # -printf '%h\n'     -not -path "*fe_*" | sort -u
 
 #%% Option2
@@ -28,6 +27,6 @@ echo "################## ALL FILES ARE DONE ################"
 echo "Elapsed Time: $SECONDS seconds"
 
 notify-send "Pathfinder" "FilePath Gathering Finished"
-telegram-send "Pathfinder finished s4_Somatic_VCFs_Paths in $SECONDS seconds"
+telegram-send "Pathfinder finished attempt2_192_Somatic_Paths in $SECONDS seconds"
 
 
